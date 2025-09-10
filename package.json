@@ -132,7 +132,7 @@
     },
     "dependencies": {
         "lodash.merge": "^4.6.2",
-        "luxon": "^3.4.4",
+        "luxon": "^3.7.1",
         "xml-js": "^1.6.11"
     },
     "lint-staged": {
